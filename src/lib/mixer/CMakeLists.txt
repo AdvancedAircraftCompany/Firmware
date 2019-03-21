@@ -34,7 +34,6 @@
 set(geometry_files
 	dodeca_bottom_cox.toml
 	dodeca_top_cox.toml
-	hamr.toml
 	hex_cox.toml
 	hex_plus.toml
 	hex_t.toml
